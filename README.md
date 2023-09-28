@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Myke</h1>
+<h1 align="center">Hi, my name is Myke 👋☺️</h1>
 <h3 align="center">I only code for fun at the moment</h3>
 
 - 🔭 I’m currently working on [my website]([https://github.com/vmyk/vmyk.github.io](https://vmyk.github.io/))
