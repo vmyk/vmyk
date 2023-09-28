@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my website]([https://github.com/vmyk/vmyk.github.io](https://vmyk.github.io/))
 
-- 🌱 I’m currently learning **html,css,js,React and TypeScript**
+- 🌱 I’m currently learning **HTML,CSS,JS,React and TypeScript**
 
 - 📫 How to reach me **Message me on Discord [https://discord.com/users/215850142929125376]**
 
